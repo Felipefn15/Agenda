@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1492023107 source:c:\users\felipe\desktop\felipe\facul\estrutura\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1491968734 source:c:\users\felipe\desktop\felipe\facul\estrutura\agenda\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1491968735 c:\users\felipe\desktop\felipe\facul\estrutura\agenda\strcol.h
+
+1491953503 source:c:\users\uezo.uezolab\desktop\felipetads\agenda.trabalho\agenda\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1491949590 c:\users\uezo.uezolab\desktop\felipetads\agenda.trabalho\agenda\strcol.h
+
+1491951846 source:c:\users\uezo.uezolab\desktop\felipetads\agenda.trabalho\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492104686 source:c:\users\felipe\desktop\felipe\facul\felipetads\agenda\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1492104511 c:\users\felipe\desktop\felipe\facul\felipetads\agenda\strcol.h
+
+1492104654 source:c:\users\felipe\desktop\felipe\facul\felipetads\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492397839 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1492105900 c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda\strcol.h
+
+1492397757 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492559784 source:c:\users\uezo.uezolab\desktop\agenda 18.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492553840 c:\users\uezo.uezolab\desktop\agenda 18.04\strcol.h
+
+1492557687 source:c:\users\uezo.uezolab\desktop\agenda 18.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1492612490 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda 18-04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492545566 c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda 18-04\strcol.h
+
+1492708534 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda 18-04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1493142212 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda-quase la-20.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1492545566 c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda-quase la-20.04\strcol.h
+
+1493142564 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda-quase la-20.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	"StrCol.h"
+
+1493159706 source:c:\users\uezo.uezolab\desktop\agenda-quase la-20.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493156751 c:\users\uezo.uezolab\desktop\agenda-quase la-20.04\strcol.h
+
+1493159537 source:c:\users\uezo.uezolab\desktop\agenda-quase la-20.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493159537 source:e:\agenda-quase la-20.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493156751 e:\agenda-quase la-20.04\strcol.h
+
+1493159706 source:e:\agenda-quase la-20.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493160554 source:d:\agenda-quase la-20.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493160554 d:\agenda-quase la-20.04\strcol.h
+
+1493160553 source:d:\agenda-quase la-20.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493161136 source:d:\agenda_agora_vai_21.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493160839 d:\agenda_agora_vai_21.04\strcol.h
+
+1493160838 source:d:\agenda_agora_vai_21.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493160838 source:c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda_agora_vai_25.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493160839 c:\users\felipe\desktop\felipe\facul\felipetads\estrutura\agenda_agora_vai_25.04\strcol.h
+
+1493908387 source:c:\users\felipe\desktop\felipe\facul\estrutura\agenda_agora_vai_21.04\strcol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
+1493907342 c:\users\felipe\desktop\felipe\facul\estrutura\agenda_agora_vai_21.04\strcol.h
+
+1493907677 source:c:\users\felipe\desktop\felipe\facul\estrutura\agenda_agora_vai_21.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrCol.h"
+
